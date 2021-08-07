@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/laast/static/css/main.a617e044.chunk.css",
-    "main.js": "/laast/static/js/main.d05bc42e.chunk.js",
-    "main.js.map": "/laast/static/js/main.d05bc42e.chunk.js.map",
-    "runtime-main.js": "/laast/static/js/runtime-main.b12dccd9.js",
-    "runtime-main.js.map": "/laast/static/js/runtime-main.b12dccd9.js.map",
-    "static/js/2.ae240c32.chunk.js": "/laast/static/js/2.ae240c32.chunk.js",
-    "static/js/2.ae240c32.chunk.js.map": "/laast/static/js/2.ae240c32.chunk.js.map",
-    "static/js/3.a5816605.chunk.js": "/laast/static/js/3.a5816605.chunk.js",
-    "static/js/3.a5816605.chunk.js.map": "/laast/static/js/3.a5816605.chunk.js.map",
+    "main.css": "/laast/static/css/main.ff0de612.chunk.css",
+    "main.js": "/laast/static/js/main.74d0263a.chunk.js",
+    "main.js.map": "/laast/static/js/main.74d0263a.chunk.js.map",
+    "runtime-main.js": "/laast/static/js/runtime-main.dbebe678.js",
+    "runtime-main.js.map": "/laast/static/js/runtime-main.dbebe678.js.map",
+    "static/js/2.7aa560b9.chunk.js": "/laast/static/js/2.7aa560b9.chunk.js",
+    "static/js/2.7aa560b9.chunk.js.map": "/laast/static/js/2.7aa560b9.chunk.js.map",
     "index.html": "/laast/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/laast/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ae240c32.chunk.js.LICENSE.txt": "/laast/static/js/2.ae240c32.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/laast/static/media/logo.6ce24c58.svg"
+    "static/css/main.ff0de612.chunk.css.map": "/laast/static/css/main.ff0de612.chunk.css.map",
+    "static/js/2.7aa560b9.chunk.js.LICENSE.txt": "/laast/static/js/2.7aa560b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b12dccd9.js",
-    "static/js/2.ae240c32.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.d05bc42e.chunk.js"
+    "static/js/runtime-main.dbebe678.js",
+    "static/js/2.7aa560b9.chunk.js",
+    "static/css/main.ff0de612.chunk.css",
+    "static/js/main.74d0263a.chunk.js"
   ]
 }

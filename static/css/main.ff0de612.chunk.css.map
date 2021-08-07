@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,MAEA,qBAAyB,CACzB,UACA,CAEA,eACC,WAAY,CACZ,YAAa,CACd,aAAc,CACd,WAEA","file":"main.ff0de612.chunk.css","sourcesContent":["#root {\r\n\r\nbackground-color: #003366;\r\ncolor: white;\r\n}\r\n\r\n.logoimage img{\r\n width: 100px;\r\n height: 100px;\r\ndisplay: block;\r\nmargin: auto;\r\n\r\n}"]}
