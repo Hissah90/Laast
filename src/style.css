@@ -1,0 +1,13 @@
+#root {
+
+background-color: #003366;
+color: white;
+}
+
+.logoimage img{
+ width: 100px;
+ height: 100px;
+display: block;
+margin: auto;
+
+}
